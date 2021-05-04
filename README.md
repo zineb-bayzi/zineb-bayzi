@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zineb-bayzi
 - 👀 I’m interested in WEB developpement
 - 🌱 I’m currently learning PHP-LARAVEL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bayzi.zineb123@gmail.com
 
 <!---
